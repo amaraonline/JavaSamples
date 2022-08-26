@@ -1,4 +1,4 @@
-package com.examples.service;
+package com.examples;
 
 //Here Maps dependency to add in build file to work this service
 //implementation 'com.here.account:here-oauth-client:0.4.23'
