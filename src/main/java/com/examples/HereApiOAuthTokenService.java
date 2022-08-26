@@ -1,5 +1,8 @@
 package com.examples;
 
+/*
+    HERE MAPS JAVA OAUTH TOKEN API
+*/
 //Here Maps dependency to add in build file to work this service
 //implementation 'com.here.account:here-oauth-client:0.4.23'
 
